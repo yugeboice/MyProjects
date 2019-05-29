@@ -1,4 +1,4 @@
-# Project Name
+# Apple store list scraper
 > Scraw apple store list data
 State, the first city, related url, city's detailed address, postal code, phone number
 
