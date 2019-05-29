@@ -1,5 +1,6 @@
 # Apple store list scraper
 > Scraw apple store list data
+website: https://www.apple.com/retail/storelist/
 State, the first city, related url, city's detailed address, postal code, phone number
 
 
